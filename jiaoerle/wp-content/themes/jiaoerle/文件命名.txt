@@ -1,0 +1,8 @@
+index.php            首页
+page-articlelist.php 总文章页面入口（首页，天园资讯）          
+category.php         分类目录页面入口          
+cat-other.php        其他分类
+cat-ct.php           传统页面（cakes）   
+cat-ts.php           特色手信页面 （gift）                  
+cat-yb.php           月饼页面(moon-cake)      
+          

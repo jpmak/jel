@@ -1,0 +1,1 @@
+<script src='<?=ty_of?>public/js/??html5shiv.min.js,jquery.min.js'></script>

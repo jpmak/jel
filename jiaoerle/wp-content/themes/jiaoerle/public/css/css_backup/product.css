@@ -1,0 +1,239 @@
+.site-header{position:relative; background:#313131}
+.navbar{opacity:1;}
+.b-wrap {
+	background: #f2f2f2;
+	width: 100%;
+}
+.li-title {
+	height: 50px;
+	line-height: 50px;
+	font-size: 18px;
+	font-weight: bold;
+}
+.breadcrumb li h1, .product-price-wrapper h1 {
+	font-size: 14px;
+	font-weight: bold;
+	display: inline;
+}
+.product-price-wrapper h1 {
+	font-size: 16px;
+	font-weight: bold;
+}
+.qrcode {
+	float: right;
+	position: relative;
+	z-index: 100;
+}
+.qrcode .mob-s {
+	z-index: 100;
+	cursor: pointer;
+	font-size: 12px;
+	color: #989898;
+	height: 50px;
+	line-height: 50px;
+	padding-right: 40px;
+	background: url(../images/ewm.png) no-repeat right 15px;
+}
+.on-hover .mob-s {
+	background: url(../images/ewm.png) no-repeat right -23px;
+}
+.qrcode canvas {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 45px;
+	display: none;
+}
+.on-hover canvas {
+	display: block;
+}
+/*detail*/
+.proWrapper {
+	margin: 0 0 10px;
+	background-color: #FFFFFF;
+	border: 1px solid #ccc;
+	box-shadow: 4px 4px 4px #888;
+	padding: 0px 0px 10px;
+}
+.spec-preview {
+	height: 200px;
+	overflow: hidden;
+}
+.spec-scroll .prev {
+	float: left;
+}
+.spec-scroll .next {
+	float: right;
+}
+.spec-scroll .prev, .spec-scroll .next {
+	display: block;
+	color: #aaa;
+	font-size: 16px;
+	font-family: "\5b8b\4f53";
+	text-align: center;
+	width: 8%;
+	height: 34px;
+	line-height: 34px;
+	cursor: pointer;
+	text-decoration: none;
+}
+.spec-scroll {
+	clear: both;
+	margin-top: 5px;
+	width: 100%;
+}
+.spec-scroll .items {
+	float: left;
+	position: relative;
+	width: 80%;
+	height: 36px;
+	overflow: hidden;
+}
+.spec-scroll .items ul {
+	position: absolute;
+	width: 999999px;
+	margin: 0;
+	padding: 0;
+}
+.spec-scroll .items ul li {
+	float: left;
+	width: 36px;
+	text-align: center;
+}
+.spec-scroll .items ul li img {
+	border: 0px solid #CCC;
+	padding: 2px;
+	width: 34px;
+	height: 34px;
+}
+.spec-scroll .items ul li img:hover {
+	border: 2px solid #FF6600;
+	padding: 0px;
+}
+.supply_style .panel-heading {
+	border: none;
+	padding: 0;
+}
+.supply_style .panel-body {
+	font-weight: 14px;
+	color: #666;
+	line-height: 18px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.supply_style .panel-collapse {
+	border: none;
+}
+.supply_style .panel-body {
+	padding: 8px 0
+}
+.supply_style a {
+	text-decoration: none;
+}
+.supply_style .panel .panel-body {
+	border-top: 0;
+	padding: 10px;
+}
+.supply_style .panel a {
+	font-size: 14px;
+	border: 0;
+	color: #666;
+}
+.supply_style .panel .toli {
+	font-size: 12px;
+	padding: 8px;
+}
+.supply_style .panel-group {
+	margin: 0;
+}
+.supply_style .panel-group .panel {
+	border: none;
+	line-height: 18px;
+	padding: 8px 0
+}
+.supply .ply_tit p {
+	color: #c43545;
+	line-height: 45px;
+	height: 45px;
+	font-size: 16px;
+	border-bottom: 2px solid #c43545;
+	padding-left:10px;
+}
+.supplyContent {
+	padding-top: 10px;
+}
+/*商品详情*/
+.product-price-wrapper {
+}
+.product-price-wrapper span {
+	line-height: 50px;
+}
+.product-price-wrapper .price {
+	color: #ff6600;
+	font-weight: bold;
+}
+.product-price-wrapper .price .rmb {
+	font-size: 18px;
+}
+.product-price-wrapper .price .num {
+	font-size: 36px;
+}
+.product-price-wrapper table tr, .product-price-wrapper table tr td {
+	height: 50px;
+	line-height: 50px;
+	background: #FFF2E8
+}
+.carousel-inner img {
+	padding: 5px 0
+}
+.proWrapper img {
+	width: 100%;
+	max-width: 100%;
+}
+.supply_tit {
+	width: 100%;
+	height: 28px;
+	line-height: 28px;
+	margin-bottom: 10px;
+}
+.supply_tit_l {
+	width: 100%;
+	height: 28px;
+	line-height: 28px;
+	background-color: #fcf8cb;
+	margin-bottom: 10px;
+}
+.supply_tit_l p {
+	font-size: 14px;
+	font-weight: bold;
+	color: #c43545;
+	padding: 0 15px;
+}
+.supply_tit p {
+	font-size: 14px;
+	font-weight: bold;
+	float: left;
+	color: #c43545;
+	padding: 0 40px;
+}
+.supply_more {
+	float: right;
+	padding-right: 8px;
+	color: #FFFFFF;
+	font-size: 12px;
+}
+a.supply_more {
+	color: #fff;
+}
+ul, li {
+	list-style: none
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.cl {
+	clear: both;
+}

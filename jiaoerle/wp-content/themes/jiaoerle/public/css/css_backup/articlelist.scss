@@ -1,0 +1,36 @@
+.wp-pagenavi{text-align: right;}
+.article-list{
+	font-family:Helvetica,Arial,sans-serif;
+	font-size:13px;
+	margin:0;
+}
+.article-list li {
+	border-bottom:1px dotted #DDDDDD;
+	list-style:none;
+	line-height:2em;
+}
+.wp-pagenavi {
+	margin:10px 15px;
+}
+.wp-pagenavi a:hover{color:#fff;}
+.wp-pagenavi a:hover,.wp-pagenavi span.current {
+	border:none;
+	background:#C72730;
+	font-weight:normal !important;
+}
+.wp-pagenavi a, .wp-pagenavi span {
+    border: none !important;
+	background: #333333;
+	color: #FFFFFF;
+    margin: 0 !important;
+    padding: 10px 16px ;	
+}
+.post-comment, .post-date  {
+	float:right;
+	margin-right:10px;
+}
+/*移动端*/
+.web-page{text-align: center; }
+.web-page span.current{ width: 10%;display: inline-block; }
+.web-page span.pages,.web-page a.page{display: none;}
+.web-page a.previouspostslink,.web-page a.nextpostslink{width:45%; display: inline-block;}

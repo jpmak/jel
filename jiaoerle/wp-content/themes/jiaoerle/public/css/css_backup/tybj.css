@@ -1,0 +1,43 @@
+/*
+Error: Invalid CSS after "...n-width: 768px)": expected "{", was ".col-sm-push-6 {"
+        on line 743 of D:\git-project\tybj\www\wp-content\themes\tybj\css\css备份\tybj.scss
+
+738: 
+739: .bn-det a.btn { font-size: 12px; border:2px solid #b89f7a; color:#b89f7a;  padding: 10px 24px; }
+740: .bn-det .section-content a.btn {margin-top:40px;}
+741: .bn-det a.btn:hover{color:#fff; background:#b89f7a; }
+742: @media (min-width: 768px)
+743: .col-sm-push-6 {
+744:     left: 50%;
+745: }
+746: 
+747: 
+748: @media (min-width: 768px)
+
+Backtrace:
+D:\git-project\tybj\www\wp-content\themes\tybj\css\css备份\tybj.scss:743
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/scss/parser.rb:1165:in `expected'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/scss/parser.rb:1101:in `expected'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/scss/parser.rb:1096:in `tok!'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/scss/parser.rb:641:in `block'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/scss/parser.rb:401:in `media_directive'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/scss/parser.rb:219:in `special_directive'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/scss/parser.rb:194:in `directive'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/scss/parser.rb:660:in `block_child'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/scss/parser.rb:653:in `block_contents'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/scss/parser.rb:117:in `stylesheet'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/scss/parser.rb:42:in `parse'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:393:in `_to_tree'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:268:in `render'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/exec/sass_scss.rb:404:in `run'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/exec/sass_scss.rb:62:in `process_result'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/exec/base.rb:52:in `parse'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/lib/sass/exec/base.rb:19:in `parse!'
+D:/安装软件/koala_2.0.4_portable/Koala/rubygems/gems/sass-3.4.9/bin/sass:13:in `<top (required)>'
+D:/安装软件/koala_2.0.4_portable/Koala/bin/sass:18:in `load'
+D:/安装软件/koala_2.0.4_portable/Koala/bin/sass:18:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"...n-width: 768px)\": expected \"{\", was \".col-sm-push-6 {\"\A         on line 743 of D:\git-project\tybj\www\wp-content\themes\tybj\css\css备份\tybj.scss\A \A 738: \A 739: .bn-det a.btn { font-size: 12px; border:2px solid #b89f7a; color:#b89f7a;  padding: 10px 24px; }\A 740: .bn-det .section-content a.btn {margin-top:40px;}\A 741: .bn-det a.btn:hover{color:#fff; background:#b89f7a; }\A 742: @media (min-width: 768px)\A 743: .col-sm-push-6 {\A 744:     left: 50%;\A 745: }\A 746: \A 747: \A 748: @media (min-width: 768px)"; }

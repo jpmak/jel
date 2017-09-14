@@ -1,0 +1,74 @@
+@charset "UTF-8";
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/git-project\/tybj\/www\/wp-content\/themes\/tybj\/css\/css\%B1\%B8\%B7\%DD\/articlelist\.scss}line{font-family:\000031}}
+.wp-pagenavi {
+  text-align: right;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/git-project\/tybj\/www\/wp-content\/themes\/tybj\/css\/css\%B1\%B8\%B7\%DD\/articlelist\.scss}line{font-family:\000032}}
+.article-list {
+  font-family: Helvetica,Arial,sans-serif;
+  font-size: 13px;
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/git-project\/tybj\/www\/wp-content\/themes\/tybj\/css\/css\%B1\%B8\%B7\%DD\/articlelist\.scss}line{font-family:\000037}}
+.article-list li {
+  border-bottom: 1px dotted #DDDDDD;
+  list-style: none;
+  line-height: 2em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/git-project\/tybj\/www\/wp-content\/themes\/tybj\/css\/css\%B1\%B8\%B7\%DD\/articlelist\.scss}line{font-family:\0000312}}
+.wp-pagenavi {
+  margin: 10px 15px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/git-project\/tybj\/www\/wp-content\/themes\/tybj\/css\/css\%B1\%B8\%B7\%DD\/articlelist\.scss}line{font-family:\0000315}}
+.wp-pagenavi a:hover {
+  color: #fff;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/git-project\/tybj\/www\/wp-content\/themes\/tybj\/css\/css\%B1\%B8\%B7\%DD\/articlelist\.scss}line{font-family:\0000316}}
+.wp-pagenavi a:hover, .wp-pagenavi span.current {
+  border: none;
+  background: #C72730;
+  font-weight: normal !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/git-project\/tybj\/www\/wp-content\/themes\/tybj\/css\/css\%B1\%B8\%B7\%DD\/articlelist\.scss}line{font-family:\0000321}}
+.wp-pagenavi a, .wp-pagenavi span {
+  border: none !important;
+  background: #333333;
+  color: #FFFFFF;
+  margin: 0 !important;
+  padding: 10px 16px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/git-project\/tybj\/www\/wp-content\/themes\/tybj\/css\/css\%B1\%B8\%B7\%DD\/articlelist\.scss}line{font-family:\0000328}}
+.post-comment, .post-date {
+  float: right;
+  margin-right: 10px;
+}
+
+/*移动端*/
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/git-project\/tybj\/www\/wp-content\/themes\/tybj\/css\/css\%B1\%B8\%B7\%DD\/articlelist\.scss}line{font-family:\0000333}}
+.web-page {
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/git-project\/tybj\/www\/wp-content\/themes\/tybj\/css\/css\%B1\%B8\%B7\%DD\/articlelist\.scss}line{font-family:\0000334}}
+.web-page span.current {
+  width: 10%;
+  display: inline-block;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/git-project\/tybj\/www\/wp-content\/themes\/tybj\/css\/css\%B1\%B8\%B7\%DD\/articlelist\.scss}line{font-family:\0000335}}
+.web-page span.pages, .web-page a.page {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/git-project\/tybj\/www\/wp-content\/themes\/tybj\/css\/css\%B1\%B8\%B7\%DD\/articlelist\.scss}line{font-family:\0000336}}
+.web-page a.previouspostslink, .web-page a.nextpostslink {
+  width: 45%;
+  display: inline-block;
+}

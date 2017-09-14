@@ -1,0 +1,1 @@
+nohup gulp server & nohup node webp-monitor.js & nohup node webp-monitor.js &
