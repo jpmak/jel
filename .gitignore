@@ -1,0 +1,10 @@
+﻿jiaoerle/.gitignore
+jiaoerle/123.txt
+node_modules*
+sftp-config*
+材料*
+
+package*
+/www/package,json
+/tybj-food手册/文章填写流程，请拖拽到浏览看.gif
+/jiaoerle/wp-content/themes/jiaoerle/cache
