@@ -60,7 +60,7 @@
                         <div class="container">
                             <div class="col-xs-12 col-sm-6 col-md-4 column">
                                 <div class="hor-view site-of">
-                                    <a href="" >
+                                    <a href="/?p=155" >
                                         <div class="grid">
                                             <div class="figure">
                                                 <figure class="effect-apollo">
@@ -77,7 +77,7 @@
                             </div>
                                   <div class="col-xs-12 col-sm-6 col-md-4 column">
                                 <div class="hor-view site-of">
-                                    <a href="" >
+                                    <a href="?p=157" >
                                         <div class="grid">
                                             <div class="figure">
                                                 <figure class="effect-apollo">
@@ -94,7 +94,7 @@
                             </div>
                                   <div class="col-xs-12 col-sm-6 col-md-4 column">
                                 <div class="hor-view site-of">
-                                    <a href="" >
+                                    <a href="/?p=165" >
                                         <div class="grid">
                                             <div class="figure">
                                                 <figure class="effect-apollo">
@@ -111,7 +111,7 @@
                             </div>
                                   <div class="col-xs-12 col-sm-6 col-md-4 column">
                                 <div class="hor-view site-of">
-                                    <a href="" >
+                                    <a href="/?p=163" >
                                         <div class="grid">
                                             <div class="figure">
                                                 <figure class="effect-apollo">
@@ -128,7 +128,7 @@
                             </div>
                                   <div class="col-xs-12 col-sm-6 col-md-4 column">
                                 <div class="hor-view site-of">
-                                    <a href="" >
+                                    <a href="/?p=161" >
                                         <div class="grid">
                                             <div class="figure">
                                                 <figure class="effect-apollo">
@@ -145,7 +145,7 @@
                             </div>
                                   <div class="col-xs-12 col-sm-6 col-md-4 column">
                                 <div class="hor-view site-of">
-                                    <a href="" >
+                                    <a href="/?p=159" >
                                         <div class="grid">
                                             <div class="figure">
                                                 <figure class="effect-apollo">
