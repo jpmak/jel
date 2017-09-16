@@ -170,8 +170,9 @@
                     <div class="container">
                         <div class="row ">  
                                 <div class="section-heading tr-c pb50">
-                                        <h2>公司简介</h2>
-                                        <h5>Company Profile</h5>
+                                        <h2>产品特点</h2>
+                                        <h5>   Product Features</h5>
+
                                     </div>
                             <div class="col-sm-6 m-b-60-xs-max p-r-60-md-min op0" data-scroll-reveal="enter left over 2s">
                                 <div class="col-inner clearfix ">
@@ -199,8 +200,11 @@
                                 <div class="col-inner">
                                     <!-- .section-heading -->
                                     <div class="section-content" style="text-align:left;">
-                                        <p>娇尔乐</p>
-                                        <p>一个知道如何做好含有茶多酚元素卫生巾的品牌</p>
+                                        <p>抗癌、提高免疫力、除异味——茶多酚芯片</p>
+                                        <p>茶多酚，又名抗氧灵、维多酚、防哈灵，是茶叶中所含的一类多羟基类化合物，简称TP，）是茶叶中多酚类物质的总称。类物质茶多酚又称茶鞣或茶单宁，是形成茶叶色香味的主要成份之一，也是茶叶中有保健功能的主要成份之一。研究表明，茶多酚等活性物质具解毒和抗辐射作用，能有效地阻止放射性物质侵入骨髓，并可使锶90和钴60迅速排出体外，被健康及医学界誉为“辐射克星”。 茶多酚是从茶叶中提取的全天然抗氧化食品，具有抗氧化能力强，无毒副作用，无异味等特点。 </p>
+                                        <p>
+                                           茶多酚具有很强的抗氧化作用，能极强的清除有害自由基，阻断脂质过氧化过程，提高人体内酶的活性，从而起到抗突变、抗癌症的功效。茶多酚除具有抗氧化作用外，还具有抑菌作用，可吸附异味，因此具有较强的除臭作用。 茶多酚具有很强的抗氧化作用，能极强的清除有害自由基，阻断脂质过氧化过程，提高人体内酶的活性，从而起到抗突变、抗癌症的功效。茶多酚除具有抗氧化作用外，还具有抑菌作用，可吸附异味，因此具有较强的除臭作用。
+                                        </p>
                                     </div>
                                     <!-- .section-content -->
                                 </div>
@@ -312,7 +316,7 @@ $post_list = new WP_Query(
                                     <div class="icon-box _left">
                                         <div class="icon-box-media" data-scroll-reveal="enter left over 1s and move 20px"> <img class="lazy" src="<?=jel_img?>dist/images/loading.jpg" data-original="<?=jel_img?>dist/images/picture/tel.png" alt=""> </div>
                                         <div class="icon-box-heading">
-                                            <h4>销售热线</h4>
+                                            <h4>联系电话</h4>
                                         </div>
                                         <div class="icon-box-content font-sub"> <span><a style="color:#313131;"href="tel:13630027838">13630027838</a></span>
                                             <br>
@@ -321,16 +325,16 @@ $post_list = new WP_Query(
                                     <div class="icon-box _left">
                                         <div class="icon-box-media" data-scroll-reveal="enter left over 1s and move 20px after 0.2s"> <img class="lazy" src="<?=jel_img?>dist/images/loading.jpg" data-original="<?=jel_img?>dist/images/picture/email.png"> </div>
                                         <div class="icon-box-heading">
-                                            <h4>邮箱地址</h4>
+                                            <h4>QQ</h4>
                                         </div>
-                                        <div class="icon-box-content font-sub font-italic"> <span>jiaoyangleer@163.com </span>
+                                        <div class="icon-box-content font-sub font-italic"> <span>3457103334</span>
                                             <br>
                                         </div>
                                     </div>
                                     <div class="icon-box _left">
                                         <div class="icon-box-media" data-scroll-reveal="enter left over 1s and move 20px after 0.4s"> <img class="lazy" src="<?=jel_img?>dist/images/loading.jpg" data-original="<?=jel_img?>dist/images/picture/address.png"> </div>
                                         <div class="icon-box-heading">
-                                            <h4>工厂店址</h4>
+                                            <h4>联系店址</h4>
 
                                         </div>
                                         <div class="icon-box-content font-sub"> <span>佛山市南海区桂城街道石龙南路1号嘉邦国金中心1座604</span> </div>

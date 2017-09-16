@@ -12,7 +12,7 @@
                             <ul class="nav navbar-nav navbar-right">
                                 <li class="home active"><a>首页</a></li>
                                 <li class="about"><a>荣誉产品</a></li>
-                                <li class="bri"><a>公司简介</a></li>
+                                <li class="bri"><a>产品特点</a></li>
                                 <li class="pri"><a>娇尔乐资讯</a></li>
                                 <li class="con"><a>联系我们</a></li>
                                 <li class="audio-toggle" style="display: none;"><a href="#"><i class="fa fa-volume-up"></i></a></li>

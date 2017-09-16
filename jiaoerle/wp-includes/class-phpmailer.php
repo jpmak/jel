@@ -984,7 +984,12 @@ class PHPMailer
      * @access public
      */
     public static function validateAddress($address, $patternselect = 'auto')
-    {
+    {  
+     if (is_null($patternselect))
+     { $patternselect = self::$validator; } 
+     if (is_callable($patternselect)) 
+        { return call_user_func($patternselect, $address); }
+
         //Reject line breaks in addresses; it's valid RFC5322, but not RFC5321
         if (strpos($address, "\n") !== false or strpos($address, "\r") !== false) {
             return false;
